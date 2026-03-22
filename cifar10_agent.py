@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-CIFAR-10 Classification Agent
+CIFAR-10 Classification Agent - easy pic set to use to demo training process
 
 A comprehensive command-line interface for training, evaluating, and using
 CIFAR-10 image classification models.
