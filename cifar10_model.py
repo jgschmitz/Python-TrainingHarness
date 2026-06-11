@@ -10,6 +10,7 @@ from tensorflow import keras
 from tensorflow.keras import layers, models, regularizers
 from typing import Tuple, Optional
 import numpy as np
+import unsloth
 
 
 class CIFAR10Model:
